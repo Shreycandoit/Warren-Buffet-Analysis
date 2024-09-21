@@ -1,7 +1,9 @@
 ##Warren Buffett Shareholder Letters Analysis (1977–2023)
+
 This repository contains a data analysis project that focuses on Warren Buffett's annual shareholder letters from 1977 to 2023. The project aims to extract, clean, and analyze these letters to understand Buffett's financial insights, sentiments, and recurring themes in his long-term investment strategies.
 
 ##Project Overview
+
 This project uses Python and various libraries to perform the following tasks:
 
 Web Scraping: Automated scraping of Warren Buffett's shareholder letters from Berkshire Hathaway’s website using Selenium WebDriver.
@@ -13,11 +15,13 @@ Time Series Analysis: Analyzed sentiment trends and recurring themes across diff
 Natural Language Processing (NLP): Used NLP techniques to analyze key terms, phrases, and investment insights presented in the letters.
 
 ##Key Findings
+
 Neutral Sentiment: Buffett's sentiment has remained consistently neutral across the years, reflecting his steady and calculated approach to business and investments.
 Value Investing Focus: Repeated emphasis on value investing, buying quality businesses, and holding long-term investments.
 Business and Market Insights: Consistent themes around market trends, investment philosophy, and insights into the long-term growth of Berkshire Hathaway’s business.
 
-#Tech Stack
+###Tech Stack
+
 Python: Used for scripting, data cleaning, and analysis.
 Selenium WebDriver: For automating the web scraping process of the shareholder letters.
 PyPDF2 & PDFMiner: Libraries used to extract text from PDFs.
