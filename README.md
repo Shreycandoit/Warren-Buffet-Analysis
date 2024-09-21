@@ -29,6 +29,7 @@ NLP & Sentiment Analysis Tools: Conducted using nltk, TextBlob, and pandas for t
 Excel: Final cleaned data was structured and stored for further analysis and visualization.
 
 ##Conclusion
+
 This analysis provides valuable insights into Warren Buffett's investment philosophy over nearly five decades. His neutral sentiment, focus on value investing, and emphasis on long-term business growth have remained consistent themes throughout his shareholder letters.
 
 ![image](https://github.com/user-attachments/assets/167f857b-1b03-45ca-bc7b-3797e413c74b)
